@@ -1,5 +1,3 @@
-<img width="1303" alt="Screenshot 2024-04-26 at 9 19 48 AM" src="https://github.com/LOSTBOY-IS-DEDurl-shortner/assets/37762770/a97137c1-c4b9-4266-843b-b98e0edac128">
-
 # URL Shortener
 
 A simple URL shortening service built in Go.
@@ -42,7 +40,7 @@ The response will contain a JSON object with the shortened URL:
 
 ```json
 {
-    "short_url": "https://www.linkedin.com/in/iamprince/"
+  "short_url": "https://www.linkedin.com/in/lost-is-ded/"
 }
 ```
 
@@ -58,8 +56,4 @@ This will redirect you to the original URL associated with the shortened URL.
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Feel free to fork the repository and submit pull requests. But dont create any uncessary PR's
